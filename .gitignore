@@ -1,0 +1,6 @@
+*.db
+*.ipch
+*.opendb
+/.vs
+/x64
+AxialPositionSetupFinder.vcxproj.user

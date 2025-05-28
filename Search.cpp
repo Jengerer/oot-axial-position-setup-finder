@@ -71,7 +71,7 @@ const Move BigInterruptedVerticalFaceRightSlash("BigInterruptedVerticalFaceRight
 
 const Move Crouchstab("CrouchStab", 30.f, FLT_MIN, 1370.f, false);
 
-#define BIG_SWORD 1
+#define BIG_SWORD 0
 
 // Comment out moves you don't wanna use
 const Move* MoveSet[] = {
