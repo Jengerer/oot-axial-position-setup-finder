@@ -1,2 +1,2 @@
 # oot-axial-position-setup-finder
-Brute-force search for one coordinate of position using OoT movements.
+One-dimensional brute-force search for position setup using OoT movements. Used currently to align the ladder backshot in BotW entrance.
