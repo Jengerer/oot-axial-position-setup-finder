@@ -1,2 +1,2 @@
-# Backshot-Finder
-Brute-force search for Z position in bottom of the well entrance (or any other axial alignment).
+# oot-axial-position-setup-finder
+Brute-force search for one coordinate of position using OoT movements.
